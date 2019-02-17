@@ -1,3 +1,10 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "npm.enableScriptExplorer": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "go.autocompleteUnimportedPackages": true
 }
